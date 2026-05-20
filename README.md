@@ -1,5 +1,7 @@
 # LiveEdgeRecorder
 
+<img width="758" height="572" alt="20260520-0902-37 3448962" src="https://github.com/user-attachments/assets/c1171d19-2399-4223-989b-20914da6bb9b" />
+
 Dieses Projekt erkennt Kanten in einem Live-Video und ermöglicht es, Fotos und Videos von den erkannten Kanten zu speichern.
 
 Volage für das Projekt von `The Morpheus Tutorials` --> [https://www.youtube.com/watch?v=-XXj-uLdGmQ]
@@ -28,3 +30,4 @@ pip install -r requirements.txt
 3. **Ergebnisse speichern**:
    - Fotos werden im `captures/` Ordner unter einem Zeitstempel gespeichert.
    - Videos werden ebenfalls im `captures/` Ordner gespeichert und auch mit Zeitstempel benannt.
+
